@@ -72,7 +72,7 @@
         margin-top: 5rem;
         color: $colorTexto;
     
-        @include tablet { /* Cómo estamos en el mimos archivo no se requiere m.tablet, solo el nombre  */
+        @include tablet { /* Cómo estamos en el mismos archivo no se requiere m.tablet, solo el nombre  */
             margin-top: 0;
         }
     
